@@ -1,6 +1,6 @@
-# flutterloginsingup
+# flutter_login_singup
 
-A new Flutter application.
+This simple flutter UI is a first step for a big app 
 
 ## Getting Started
 
